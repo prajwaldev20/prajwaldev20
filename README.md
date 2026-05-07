@@ -62,9 +62,6 @@ Ship → Measure → Iterate
   <img src="https://streak-stats.demolab.com?user=prajwaldev20&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldev20&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" />
-</p>
 
 ---
 
