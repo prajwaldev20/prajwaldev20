@@ -39,45 +39,6 @@ I sit at the intersection of **AI/ML systems** and **user-centered product think
 | **Deployment** | Docker · Heroku · Streamlit |
 | **Data** | Pandas · NumPy · Matplotlib |
 
----
-
-## 📌 Featured Projects
-
-### 🤖 [LangChain RAG Chatbot](https://github.com/prajwaldev20/Langchain-RAG-Chatbot)
-> Document QA system using Retrieval-Augmented Generation
-
-Built an end-to-end RAG pipeline that lets users query documents in natural language. Designed the retrieval + generation flow with user accuracy and latency in mind — two metrics that matter most in production LLM products.
-
-`LangChain` `OpenAI` `RAG` `Python` `Vector DB`
-
----
-
-### 🍽️ [MealMind-AI](https://github.com/prajwaldev20/MealMind-AI)
-> AI-powered meal planner with personalization
-
-Designed and built an AI meal planning product from scratch — user inputs, preference modeling, and AI-generated recommendations. Focused on the full product loop: problem → solution → output the user actually values.
-
-`AI Product` `Python` `Streamlit` `GPT`
-
----
-
-### 🚀 [ML Model → FastAPI → Docker → Heroku](https://github.com/prajwaldev20/ML-model-with-FastAPI-Docker-and-Heroku)
-> End-to-end ML deployment pipeline
-
-Took a trained ML model from notebook to production API — containerized with Docker, deployed on Heroku. Understanding deployment is what separates PMs who can ship AI from those who can only talk about it.
-
-`MLOps` `FastAPI` `Docker` `Heroku` `REST API`
-
----
-
-### 🔤 [Next Word Prediction (LSTM)](https://github.com/prajwaldev20/Next_Word_Prediction_Using_LSTM)
-> NLP model for sequence prediction
-
-Built a next-word prediction model using LSTM networks — foundational understanding of how language models learn patterns from sequential data.
-
-`NLP` `LSTM` `TensorFlow` `Deep Learning`
-
----
 
 ## 🧩 How I Think About AI Products
 
