@@ -32,11 +32,13 @@ I sit at the intersection of **AI/ML systems** and **user-centered product think
 
 | Layer | Tools |
 |-------|-------|
-| **AI / LLMs** | LangChain · OpenAI API · RAG pipelines · Prompt engineering |
-| **ML** | Scikit-learn · TensorFlow · LSTM · Jupyter |
-| **Backend / APIs** | Python · FastAPI · REST APIs |
-| **Deployment** | Docker · Heroku · Streamlit |
-| **Data** | Pandas · NumPy · Matplotlib |
+| **AI / LLMs** | LangChain · OpenAI API · Anthropic Claude · Gemini · RAG pipelines · Prompt engineering · Fine-tuning |
+| **ML** | Scikit-learn · TensorFlow · Keras · LSTM · Jupyter · Hugging Face |
+| **Backend / APIs** | Python · FastAPI · REST APIs · Flask |
+| **Deployment / MLOps** | Docker · Heroku · Streamlit · GitHub Actions |
+| **Data** | Pandas · NumPy · Matplotlib · Seaborn · SQL |
+| **AI Dev Tools** | Cursor · Claude Code · GitHub Copilot · Replit · Bolt.new · v0 |
+| **PM Tools** | Notion · Jira · Figma · Miro · Confluence · Linear |
 
 
 ## 🧩 How I Think About AI Products
