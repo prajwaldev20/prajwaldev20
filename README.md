@@ -13,7 +13,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-AI%20PM%20Roles-10B981?style=flat" />
 </p>
-
 ---
 
 ## 🧠 What I Do
