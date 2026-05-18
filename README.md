@@ -15,18 +15,18 @@
 </p>
 
 
-## 🧠 What I Do
+##  What I Do
 
 I sit at the intersection of **AI/ML systems** and **user-centered product thinking** — translating complex model capabilities into products people actually want to use.
 
-- 🔍 Define product vision and requirements for AI-powered features
-- 🤝 Collaborate with ML engineers on LLM pipelines, RAG architectures, and model deployment
-- 📊 Drive decisions with data — experimentation, metrics, and user feedback loops
-- 🗺️ Prioritize ruthlessly: user value × technical feasibility × business impact
+-  Define product vision and requirements for AI-powered features
+-  Collaborate with ML engineers on LLM pipelines, RAG architectures, and model deployment
+-  Drive decisions with data — experimentation, metrics, and user feedback loops
+-  Prioritize ruthlessly: user value × technical feasibility × business impact
 
 ---
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 > I believe great AI PMs need enough technical depth to earn trust with engineers — here's mine.
 
@@ -57,7 +57,7 @@ Ship → Measure → Iterate
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prajwaldev20&theme=default&hide_border=true" alt="GitHub Streak" />
@@ -66,7 +66,7 @@ Ship → Measure → Iterate
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm actively exploring **AI PM roles** where I can help teams build smarter products.
 
