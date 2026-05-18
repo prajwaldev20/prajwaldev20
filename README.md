@@ -41,7 +41,7 @@ I sit at the intersection of **AI/ML systems** and **user-centered product think
 | **PM Tools** | Notion · Jira · Figma · Miro · Confluence · Linear |
 
 
-## 🧩 How I Think About AI Products
+##  How I Think About AI Products
 
 ```
 User Problem
